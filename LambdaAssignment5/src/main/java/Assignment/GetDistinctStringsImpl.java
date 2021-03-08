@@ -20,15 +20,7 @@ public class GetDistinctStringsImpl {
 
 
 
-      //  System.out.println(set);
-
-
-  /*  @Override
-    public List<String> distinctStrings(List<String> l)
-    {
-        Set<String> set = l.stream().collect(Collectors.toSet());
-        return set.stream().sorted().collect(Collectors.toList());
-    }*/
+     
 
 
 
